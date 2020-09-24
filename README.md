@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm <a href="https://wuufeii.github.io" blank="_target">Jin Long</a>!</h1>
-<h1 align="center">A 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">Hi, I'm <a href="https://wuufeii.github.io" blank="_target">Jin long</a>!</h1>
+<h1 align="center">A Front *  Backend 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 <p align="center">
-  <strong><a href="https://wuufeii.github.io">博客</a></strong> |
+  <strong><a href="">BLOG</a></strong> |
   <strong><a href="https://blog.csdn.net/wuufeii">CSND</a></strong>
 </p>
 <a href="https://profile-counter.glitch.me/wuufeii/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
