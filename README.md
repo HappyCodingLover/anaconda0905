@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm <a href="https://wuufeii.github.io" blank="_target">Jin long</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://anaconda0905.github.io" blank="_target">Jin long</a>!</h1>
 <h1 align="center">A FullStack 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 
 <p align="center">
-  <strong><a href="">BLOG</a></strong> |
-  <strong><a href="https://blog.csdn.net/wuufeii">CSND</a></strong>
+  <strong><a href="https://anaconda0905.github.io">博客</a></strong> |
+  <strong><a href="https://blog.csdn.net/anaconda0905">CSND</a></strong>
 </p>
-<a href="https://profile-counter.glitch.me/wuufeii/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/wuufeii/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
 
 #### Platform&Tools
 
