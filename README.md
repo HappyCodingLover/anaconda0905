@@ -2,6 +2,7 @@
 
 <a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> Visitor count <br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
 
+<p>
 #### Platform&Tools
 
 [![Windows-10](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -18,7 +19,7 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Sass](https://img.shields.io/badge/-Sass-00BCD4?style=flat-square&logo=sass&logoColor=ffffff)](https://www.sass.hk/)
 [![Stylus](https://img.shields.io/badge/-Stylus-ff6347?style=flat-square&logo=stylus&logoColor=ffffff)](https://stylus-lang.com/)
-
+</p>
 <p >
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
