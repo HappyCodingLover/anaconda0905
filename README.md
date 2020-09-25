@@ -26,9 +26,9 @@
     - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
   - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp">React Native Project</a><br/>
-    - 🤔 I’m looking for help with ...<br/>
-    - 💬 Ask me about ...<br/>
-    - 📫 How to reach me: ...<br/>
+    - 🤔 I’m looking for help with Angular<br/>
+    - 💬 Ask me about Django.<br/>
+  - 📫 How to reach me: <a href="mailto:conda0905@gmail.com">conda0905@gmail.com</a><br/>
     - 😄 Pronouns: ...<br/>
     - ⚡ Fun fact: ...<br/>
 </p>
