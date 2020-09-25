@@ -22,20 +22,22 @@
 <p align="">
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
-
+<p>
+    - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a> <br/>
+    - 🌱 I’m currently learning Angular.<br/>
+    - 👯 I’m looking to collaborate on ...<br/>
+    - 🤔 I’m looking for help with ...<br/>
+    - 💬 Ask me about ...<br/>
+    - 📫 How to reach me: ...<br/>
+    - 😄 Pronouns: ...<br/>
+    - ⚡ Fun fact: ...<br/>
+</p>
 <details>
-    - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a>
-    - 🌱 I’m currently learning Angular.
-    - 👯 I’m looking to collaborate on ...
-    - 🤔 I’m looking for help with ...
-    - 💬 Ask me about ...
-    - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ...
+    
   <summary> More things </summary>
   <br>
     <p>
-        <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
+      <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
     </p>
   
   
