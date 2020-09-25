@@ -27,7 +27,9 @@
 <details>
   <summary> More things </summary>
   <br>
-  <a align="center" href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
+  <p align="center">
+    <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
+  </p>
   <p>
     - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
