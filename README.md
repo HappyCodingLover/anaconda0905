@@ -29,7 +29,6 @@
     - 🤔 I’m looking for help with Angular<br/>
     - 💬 Ask me about Django.<br/>
   - 📫 How to reach me: <a href="mailto:conda0905@gmail.com">conda0905@gmail.com</a><br/>
-    - 😄 Pronouns: ...<br/>
     - ⚡ Fun fact: Sport - badminton<br/>
 </p>
 <details>
