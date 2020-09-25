@@ -22,6 +22,12 @@
 <p align="">
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
+ <summary> More things </summary>
+  <br>
+<p>
+  <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
+</p>
+<details>
 <p>
     - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
@@ -30,16 +36,6 @@
     - 💬 Ask me about Django.<br/>
   - 📫 How to reach me: <a href="mailto:conda0905@gmail.com">conda0905@gmail.com</a><br/>
     - ⚡ Fun fact: Sport - badminton<br/>
-</p>
-<details>
-    
-  <summary> More things </summary>
-  <br>
-    <p>
-      <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
-    </p>
-  
-  
-
+</p> 
   
 </details>
