@@ -23,9 +23,9 @@
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
 <p>
-    - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a> <br/>
+    - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
-    - 👯 I’m looking to collaborate on ...<br/>
+  - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp">React Native Project</a><br/>
     - 🤔 I’m looking for help with ...<br/>
     - 💬 Ask me about ...<br/>
     - 📫 How to reach me: ...<br/>
