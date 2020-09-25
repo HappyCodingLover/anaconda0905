@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jin long at <a href="http://fivestarsmobi.com/">fivestarsmobi.com</a>!</h1>
+<h1 align="center">Hi, I'm Jin long at <a href="http://fivestarsmobi.com/" target="_blank">fivestarsmobi.com</a>!</h1>
 
 <a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> Visitor count <br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
 
@@ -23,9 +23,9 @@
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
 <p>
-    - 🔭 I’m currently working on <a href="https://findsingles.online/" target="_blank">findsingles.online</a> project. <br/>
+    - 🔭 I’m currently working on <a target="_blank" href="https://findsingles.online/">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
-  - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp">Hybrid App</a> Development.<br/>
+  - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp" target="_blank">Hybrid App</a> Development.<br/>
     - 🤔 I’m looking for help with Angular<br/>
     - 💬 Ask me about Django.<br/>
   - 📫 How to reach me: <a href="mailto:conda0905@gmail.com">conda0905@gmail.com</a><br/>
