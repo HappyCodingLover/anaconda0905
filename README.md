@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jin long at <a href="http://fivestarsmobi.com/">fivestarsmobi.com</a>!</h1>
 
-<a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> 😍Visitor count😍<br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> Visitor count <br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
 
 #### Platform&Tools
 
@@ -30,7 +30,7 @@
         <a href= "https://github.com/anuraghazra/github-readme-stats"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anaconda0905&layout=compact" /></a>
     </p>
   
-  <!--Here are some ideas to get you started:
+  
     - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
     - 👯 I’m looking to collaborate on ...
@@ -39,5 +39,5 @@
     - 📫 How to reach me: ...
     - 😄 Pronouns: ...
     - ⚡ Fun fact: ...
-    -->
+  
 </details>
