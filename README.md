@@ -23,14 +23,14 @@
   <a href= "https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anaconda0905&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true" /></a>
 </p>
 <p>
-    - 🔭 I’m currently working on <a href="https://findsingles.online/">findsingles.online</a> project. <br/>
+    - 🔭 I’m currently working on <a href="https://findsingles.online/" target="_blank">findsingles.online</a> project. <br/>
     - 🌱 I’m currently learning Angular.<br/>
-  - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp">React Native Project</a><br/>
+  - 👯 I’m looking to collaborate on <a href="https://github.com/anaconda0905/React-native-hybridapp">Hybrid App</a> Development.<br/>
     - 🤔 I’m looking for help with Angular<br/>
     - 💬 Ask me about Django.<br/>
   - 📫 How to reach me: <a href="mailto:conda0905@gmail.com">conda0905@gmail.com</a><br/>
     - 😄 Pronouns: ...<br/>
-    - ⚡ Fun fact: ...<br/>
+    - ⚡ Fun fact: Sport - badminton<br/>
 </p>
 <details>
     
