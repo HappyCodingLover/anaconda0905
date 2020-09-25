@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jin long at <a href="http://fivestarsmobi.com/">fivestarsmobi.com</a>!</h1>
 
-<a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> ❤Visitor count❤<br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
+<a href="https://profile-counter.glitch.me/anaconda0905/count.svg"><p align="center"> 😍Visitor count😍<br> <img src="https://profile-counter.glitch.me/anaconda0905/count.svg" /></a>
 
 #### Platform&Tools
 
